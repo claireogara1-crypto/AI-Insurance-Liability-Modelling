@@ -4,7 +4,7 @@ This project explores the forecasting of emerging AI liability risks in the insu
 
 ## Data
 
-The project uses data downloaded from the [AI Incident Database (AIID)]([https://incidentdatabase.ai/research/snapshots/])).
+The project uses data downloaded from the [AI Incident Database (AIID)](https://incidentdatabase.ai/research/snapshots/).
 
 The exact screenshot used is from 2026-08-31 10:11 AM.
 
