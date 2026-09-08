@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+multitask_elastic_net_tuned,0.09804714783218511,0.13057621511011938,-1.662343199704742

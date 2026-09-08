@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+compositional_hawkes,0.09645395599398829,0.12909478351955045,-1.6531016612923275

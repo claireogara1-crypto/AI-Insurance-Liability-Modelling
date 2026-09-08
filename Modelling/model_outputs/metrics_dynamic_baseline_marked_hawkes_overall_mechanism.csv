@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+dynamic_baseline_marked_hawkes,0.09168429892877977,0.1241057756392379,-1.6437259297458895

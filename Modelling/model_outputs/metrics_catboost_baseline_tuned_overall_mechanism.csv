@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+temporal_catboost_baseline_tuned,0.09280526965439419,0.1248275354241956,-1.6446602455540613

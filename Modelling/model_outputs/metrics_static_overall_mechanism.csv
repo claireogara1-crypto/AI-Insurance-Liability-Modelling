@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+static_historical_share,0.10615537942130561,0.140132298983822,-1.6894752230063477

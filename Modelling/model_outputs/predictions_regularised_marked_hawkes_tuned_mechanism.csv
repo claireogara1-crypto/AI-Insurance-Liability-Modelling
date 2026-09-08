@@ -1,0 +1,469 @@
+model,fold,month_period,category,actual_count,actual_share,predicted_share
+regularised_marked_hawkes_tuned,2020-H1,2020-01,Reliability,1,0.09090909090909091,0.12967914438502676
+regularised_marked_hawkes_tuned,2020-H1,2020-01,Bias & Fairness,0,0.0,0.20922459893048131
+regularised_marked_hawkes_tuned,2020-H1,2020-01,"Privacy, Confidentiality & Infringement",4,0.36363636363636365,0.22727272727272732
+regularised_marked_hawkes_tuned,2020-H1,2020-01,Security & Misuse,5,0.45454545454545453,0.07620320855614973
+regularised_marked_hawkes_tuned,2020-H1,2020-01,Autonomous Actions,0,0.0,0.2767379679144385
+regularised_marked_hawkes_tuned,2020-H1,2020-01,"Governance, Oversight & Explainability",1,0.09090909090909091,0.08088235294117647
+regularised_marked_hawkes_tuned,2020-H1,2020-02,Reliability,0,0.0,0.12008141112618723
+regularised_marked_hawkes_tuned,2020-H1,2020-02,Bias & Fairness,1,0.16666666666666666,0.23677069199457257
+regularised_marked_hawkes_tuned,2020-H1,2020-02,"Privacy, Confidentiality & Infringement",2,0.3333333333333333,0.23948439620081408
+regularised_marked_hawkes_tuned,2020-H1,2020-02,Security & Misuse,2,0.3333333333333333,0.07666214382632291
+regularised_marked_hawkes_tuned,2020-H1,2020-02,Autonomous Actions,1,0.16666666666666666,0.2686567164179104
+regularised_marked_hawkes_tuned,2020-H1,2020-02,"Governance, Oversight & Explainability",0,0.0,0.058344640434192664
+regularised_marked_hawkes_tuned,2020-H1,2020-03,Reliability,2,0.3333333333333333,0.11461687057308434
+regularised_marked_hawkes_tuned,2020-H1,2020-03,Bias & Fairness,1,0.16666666666666666,0.24533161622665806
+regularised_marked_hawkes_tuned,2020-H1,2020-03,"Privacy, Confidentiality & Infringement",1,0.16666666666666666,0.24468770122343847
+regularised_marked_hawkes_tuned,2020-H1,2020-03,Security & Misuse,1,0.16666666666666666,0.09787508048937539
+regularised_marked_hawkes_tuned,2020-H1,2020-03,Autonomous Actions,0,0.0,0.2504829362524147
+regularised_marked_hawkes_tuned,2020-H1,2020-03,"Governance, Oversight & Explainability",1,0.16666666666666666,0.04700579523502897
+regularised_marked_hawkes_tuned,2020-H1,2020-04,Reliability,1,0.25,0.10270645385149203
+regularised_marked_hawkes_tuned,2020-H1,2020-04,Bias & Fairness,0,0.0,0.23247744621790425
+regularised_marked_hawkes_tuned,2020-H1,2020-04,"Privacy, Confidentiality & Infringement",0,0.0,0.2678695350451076
+regularised_marked_hawkes_tuned,2020-H1,2020-04,Security & Misuse,3,0.75,0.09368494101318531
+regularised_marked_hawkes_tuned,2020-H1,2020-04,Autonomous Actions,0,0.0,0.24496877168632894
+regularised_marked_hawkes_tuned,2020-H1,2020-04,"Governance, Oversight & Explainability",0,0.0,0.05829285218598196
+regularised_marked_hawkes_tuned,2020-H1,2020-05,Reliability,1,0.5,0.08537392455327598
+regularised_marked_hawkes_tuned,2020-H1,2020-05,Bias & Fairness,0,0.0,0.2554599602911979
+regularised_marked_hawkes_tuned,2020-H1,2020-05,"Privacy, Confidentiality & Infringement",0,0.0,0.24884182660489745
+regularised_marked_hawkes_tuned,2020-H1,2020-05,Security & Misuse,0,0.0,0.09662475181998678
+regularised_marked_hawkes_tuned,2020-H1,2020-05,Autonomous Actions,1,0.5,0.2528127068166777
+regularised_marked_hawkes_tuned,2020-H1,2020-05,"Governance, Oversight & Explainability",0,0.0,0.060886829913964276
+regularised_marked_hawkes_tuned,2020-H1,2020-06,Reliability,1,0.0625,0.10427807486631017
+regularised_marked_hawkes_tuned,2020-H1,2020-06,Bias & Fairness,5,0.3125,0.23462566844919786
+regularised_marked_hawkes_tuned,2020-H1,2020-06,"Privacy, Confidentiality & Infringement",3,0.1875,0.25267379679144386
+regularised_marked_hawkes_tuned,2020-H1,2020-06,Security & Misuse,4,0.25,0.10695187165775402
+regularised_marked_hawkes_tuned,2020-H1,2020-06,Autonomous Actions,3,0.1875,0.2553475935828877
+regularised_marked_hawkes_tuned,2020-H1,2020-06,"Governance, Oversight & Explainability",0,0.0,0.046122994652406414
+regularised_marked_hawkes_tuned,2020-H2,2020-07,Reliability,2,0.25,0.10403601710005046
+regularised_marked_hawkes_tuned,2020-H2,2020-07,Bias & Fairness,4,0.5,0.21489480240135103
+regularised_marked_hawkes_tuned,2020-H2,2020-07,"Privacy, Confidentiality & Infringement",0,0.0,0.2566629894066422
+regularised_marked_hawkes_tuned,2020-H2,2020-07,Security & Misuse,2,0.25,0.2139587629845001
+regularised_marked_hawkes_tuned,2020-H2,2020-07,Autonomous Actions,0,0.0,0.1699544642306006
+regularised_marked_hawkes_tuned,2020-H2,2020-07,"Governance, Oversight & Explainability",0,0.0,0.040492963876855574
+regularised_marked_hawkes_tuned,2020-H2,2020-08,Reliability,0,0.0,0.12324295430061101
+regularised_marked_hawkes_tuned,2020-H2,2020-08,Bias & Fairness,2,0.4,0.20708739381080435
+regularised_marked_hawkes_tuned,2020-H2,2020-08,"Privacy, Confidentiality & Infringement",2,0.4,0.23709685112542042
+regularised_marked_hawkes_tuned,2020-H2,2020-08,Security & Misuse,0,0.0,0.21038051299763977
+regularised_marked_hawkes_tuned,2020-H2,2020-08,Autonomous Actions,1,0.2,0.18114343045584258
+regularised_marked_hawkes_tuned,2020-H2,2020-08,"Governance, Oversight & Explainability",0,0.0,0.04104885730968182
+regularised_marked_hawkes_tuned,2020-H2,2020-09,Reliability,0,0.0,0.10815208179341605
+regularised_marked_hawkes_tuned,2020-H2,2020-09,Bias & Fairness,2,0.4,0.22617064292966096
+regularised_marked_hawkes_tuned,2020-H2,2020-09,"Privacy, Confidentiality & Infringement",0,0.0,0.23382575737718667
+regularised_marked_hawkes_tuned,2020-H2,2020-09,Security & Misuse,2,0.4,0.2082962442618969
+regularised_marked_hawkes_tuned,2020-H2,2020-09,Autonomous Actions,1,0.2,0.1831864623578689
+regularised_marked_hawkes_tuned,2020-H2,2020-09,"Governance, Oversight & Explainability",0,0.0,0.04036881127997051
+regularised_marked_hawkes_tuned,2020-H2,2020-10,Reliability,3,0.1875,0.11863848347124033
+regularised_marked_hawkes_tuned,2020-H2,2020-10,Bias & Fairness,3,0.1875,0.2202680499852461
+regularised_marked_hawkes_tuned,2020-H2,2020-10,"Privacy, Confidentiality & Infringement",4,0.25,0.24167433463295906
+regularised_marked_hawkes_tuned,2020-H2,2020-10,Security & Misuse,2,0.125,0.19951582685703012
+regularised_marked_hawkes_tuned,2020-H2,2020-10,Autonomous Actions,3,0.1875,0.1821170221867585
+regularised_marked_hawkes_tuned,2020-H2,2020-10,"Governance, Oversight & Explainability",1,0.0625,0.037786282866765955
+regularised_marked_hawkes_tuned,2020-H2,2020-11,Reliability,1,0.25,0.10496334119136705
+regularised_marked_hawkes_tuned,2020-H2,2020-11,Bias & Fairness,1,0.25,0.21283048471419108
+regularised_marked_hawkes_tuned,2020-H2,2020-11,"Privacy, Confidentiality & Infringement",0,0.0,0.24838156619328405
+regularised_marked_hawkes_tuned,2020-H2,2020-11,Security & Misuse,1,0.25,0.20596194719322702
+regularised_marked_hawkes_tuned,2020-H2,2020-11,Autonomous Actions,0,0.0,0.18164621546217233
+regularised_marked_hawkes_tuned,2020-H2,2020-11,"Governance, Oversight & Explainability",1,0.25,0.04621644524575853
+regularised_marked_hawkes_tuned,2020-H2,2020-12,Reliability,1,0.1111111111111111,0.11713919972440735
+regularised_marked_hawkes_tuned,2020-H2,2020-12,Bias & Fairness,3,0.3333333333333333,0.20813370157310934
+regularised_marked_hawkes_tuned,2020-H2,2020-12,"Privacy, Confidentiality & Infringement",2,0.2222222222222222,0.24784409442962305
+regularised_marked_hawkes_tuned,2020-H2,2020-12,Security & Misuse,1,0.1111111111111111,0.18902972994662348
+regularised_marked_hawkes_tuned,2020-H2,2020-12,Autonomous Actions,2,0.2222222222222222,0.1925122186576994
+regularised_marked_hawkes_tuned,2020-H2,2020-12,"Governance, Oversight & Explainability",0,0.0,0.045341055668537224
+regularised_marked_hawkes_tuned,2021-H1,2021-01,Reliability,0,0.0,0.10197663971248878
+regularised_marked_hawkes_tuned,2021-H1,2021-01,Bias & Fairness,1,0.14285714285714285,0.24618149146451038
+regularised_marked_hawkes_tuned,2021-H1,2021-01,"Privacy, Confidentiality & Infringement",1,0.14285714285714285,0.22911051212938005
+regularised_marked_hawkes_tuned,2021-H1,2021-01,Security & Misuse,3,0.42857142857142855,0.17475292003593892
+regularised_marked_hawkes_tuned,2021-H1,2021-01,Autonomous Actions,1,0.14285714285714285,0.18957771787960467
+regularised_marked_hawkes_tuned,2021-H1,2021-01,"Governance, Oversight & Explainability",1,0.14285714285714285,0.058400718778077274
+regularised_marked_hawkes_tuned,2021-H1,2021-02,Reliability,3,0.3333333333333333,0.11810584958217271
+regularised_marked_hawkes_tuned,2021-H1,2021-02,Bias & Fairness,1,0.1111111111111111,0.23899721448467967
+regularised_marked_hawkes_tuned,2021-H1,2021-02,"Privacy, Confidentiality & Infringement",1,0.1111111111111111,0.22172701949860726
+regularised_marked_hawkes_tuned,2021-H1,2021-02,Security & Misuse,1,0.1111111111111111,0.16100278551532035
+regularised_marked_hawkes_tuned,2021-H1,2021-02,Autonomous Actions,1,0.1111111111111111,0.2072423398328691
+regularised_marked_hawkes_tuned,2021-H1,2021-02,"Governance, Oversight & Explainability",2,0.2222222222222222,0.052924791086350974
+regularised_marked_hawkes_tuned,2021-H1,2021-03,Reliability,1,0.14285714285714285,0.1105121293800539
+regularised_marked_hawkes_tuned,2021-H1,2021-03,Bias & Fairness,2,0.2857142857142857,0.23450134770889489
+regularised_marked_hawkes_tuned,2021-H1,2021-03,"Privacy, Confidentiality & Infringement",1,0.14285714285714285,0.2285714285714286
+regularised_marked_hawkes_tuned,2021-H1,2021-03,Security & Misuse,0,0.0,0.1450134770889488
+regularised_marked_hawkes_tuned,2021-H1,2021-03,Autonomous Actions,2,0.2857142857142857,0.22156334231805933
+regularised_marked_hawkes_tuned,2021-H1,2021-03,"Governance, Oversight & Explainability",1,0.14285714285714285,0.059838274932614566
+regularised_marked_hawkes_tuned,2021-H1,2021-04,Reliability,1,0.125,0.12211221122112212
+regularised_marked_hawkes_tuned,2021-H1,2021-04,Bias & Fairness,1,0.125,0.22057205720572057
+regularised_marked_hawkes_tuned,2021-H1,2021-04,"Privacy, Confidentiality & Infringement",0,0.0,0.25742574257425743
+regularised_marked_hawkes_tuned,2021-H1,2021-04,Security & Misuse,4,0.5,0.1573157315731573
+regularised_marked_hawkes_tuned,2021-H1,2021-04,Autonomous Actions,2,0.25,0.19856985698569857
+regularised_marked_hawkes_tuned,2021-H1,2021-04,"Governance, Oversight & Explainability",0,0.0,0.04400440044004401
+regularised_marked_hawkes_tuned,2021-H1,2021-05,Reliability,1,0.2,0.11401673640167366
+regularised_marked_hawkes_tuned,2021-H1,2021-05,Bias & Fairness,0,0.0,0.2269874476987448
+regularised_marked_hawkes_tuned,2021-H1,2021-05,"Privacy, Confidentiality & Infringement",0,0.0,0.22646443514644354
+regularised_marked_hawkes_tuned,2021-H1,2021-05,Security & Misuse,1,0.2,0.15481171548117156
+regularised_marked_hawkes_tuned,2021-H1,2021-05,Autonomous Actions,2,0.4,0.22907949790794982
+regularised_marked_hawkes_tuned,2021-H1,2021-05,"Governance, Oversight & Explainability",1,0.2,0.048640167364016745
+regularised_marked_hawkes_tuned,2021-H1,2021-06,Reliability,0,0.0,0.10229759299781181
+regularised_marked_hawkes_tuned,2021-H1,2021-06,Bias & Fairness,2,0.3333333333333333,0.24179431072210064
+regularised_marked_hawkes_tuned,2021-H1,2021-06,"Privacy, Confidentiality & Infringement",2,0.3333333333333333,0.24288840262582057
+regularised_marked_hawkes_tuned,2021-H1,2021-06,Security & Misuse,1,0.16666666666666666,0.137308533916849
+regularised_marked_hawkes_tuned,2021-H1,2021-06,Autonomous Actions,0,0.0,0.22155361050328223
+regularised_marked_hawkes_tuned,2021-H1,2021-06,"Governance, Oversight & Explainability",1,0.16666666666666666,0.05415754923413566
+regularised_marked_hawkes_tuned,2021-H2,2021-07,Reliability,0,0.0,0.10922992900054616
+regularised_marked_hawkes_tuned,2021-H2,2021-07,Bias & Fairness,3,0.3,0.2058984161660295
+regularised_marked_hawkes_tuned,2021-H2,2021-07,"Privacy, Confidentiality & Infringement",2,0.2,0.22774440196613874
+regularised_marked_hawkes_tuned,2021-H2,2021-07,Security & Misuse,1,0.1,0.17695248498088478
+regularised_marked_hawkes_tuned,2021-H2,2021-07,Autonomous Actions,4,0.4,0.21463681048607322
+regularised_marked_hawkes_tuned,2021-H2,2021-07,"Governance, Oversight & Explainability",0,0.0,0.0655379574003277
+regularised_marked_hawkes_tuned,2021-H2,2021-08,Reliability,1,0.25,0.10377860564129857
+regularised_marked_hawkes_tuned,2021-H2,2021-08,Bias & Fairness,1,0.25,0.24640766365087813
+regularised_marked_hawkes_tuned,2021-H2,2021-08,"Privacy, Confidentiality & Infringement",1,0.25,0.21447578499201705
+regularised_marked_hawkes_tuned,2021-H2,2021-08,Security & Misuse,1,0.25,0.16391697711548697
+regularised_marked_hawkes_tuned,2021-H2,2021-08,Autonomous Actions,0,0.0,0.21926556679084622
+regularised_marked_hawkes_tuned,2021-H2,2021-08,"Governance, Oversight & Explainability",0,0.0,0.052155401809473124
+regularised_marked_hawkes_tuned,2021-H2,2021-09,Reliability,0,0.0,0.11622924477771825
+regularised_marked_hawkes_tuned,2021-H2,2021-09,Bias & Fairness,0,0.0,0.23567220139260847
+regularised_marked_hawkes_tuned,2021-H2,2021-09,"Privacy, Confidentiality & Infringement",1,0.3333333333333333,0.21853240492769146
+regularised_marked_hawkes_tuned,2021-H2,2021-09,Security & Misuse,0,0.0,0.15372254954472414
+regularised_marked_hawkes_tuned,2021-H2,2021-09,Autonomous Actions,1,0.3333333333333333,0.20835565077664703
+regularised_marked_hawkes_tuned,2021-H2,2021-09,"Governance, Oversight & Explainability",1,0.3333333333333333,0.0674879485806106
+regularised_marked_hawkes_tuned,2021-H2,2021-10,Reliability,0,0.0,0.12531839021905247
+regularised_marked_hawkes_tuned,2021-H2,2021-10,Bias & Fairness,1,0.14285714285714285,0.2302598064187468
+regularised_marked_hawkes_tuned,2021-H2,2021-10,"Privacy, Confidentiality & Infringement",3,0.42857142857142855,0.20529801324503313
+regularised_marked_hawkes_tuned,2021-H2,2021-10,Security & Misuse,2,0.2857142857142857,0.1599592460519613
+regularised_marked_hawkes_tuned,2021-H2,2021-10,Autonomous Actions,1,0.14285714285714285,0.20886398369842077
+regularised_marked_hawkes_tuned,2021-H2,2021-10,"Governance, Oversight & Explainability",0,0.0,0.07030056036678553
+regularised_marked_hawkes_tuned,2021-H2,2021-11,Reliability,1,0.14285714285714285,0.11627906976744186
+regularised_marked_hawkes_tuned,2021-H2,2021-11,Bias & Fairness,1,0.14285714285714285,0.23617571059431525
+regularised_marked_hawkes_tuned,2021-H2,2021-11,"Privacy, Confidentiality & Infringement",1,0.14285714285714285,0.2144702842377261
+regularised_marked_hawkes_tuned,2021-H2,2021-11,Security & Misuse,0,0.0,0.16227390180878554
+regularised_marked_hawkes_tuned,2021-H2,2021-11,Autonomous Actions,3,0.42857142857142855,0.2103359173126615
+regularised_marked_hawkes_tuned,2021-H2,2021-11,"Governance, Oversight & Explainability",1,0.14285714285714285,0.06046511627906976
+regularised_marked_hawkes_tuned,2021-H2,2021-12,Reliability,2,0.2857142857142857,0.1182741116751269
+regularised_marked_hawkes_tuned,2021-H2,2021-12,Bias & Fairness,1,0.14285714285714285,0.22538071065989848
+regularised_marked_hawkes_tuned,2021-H2,2021-12,"Privacy, Confidentiality & Infringement",0,0.0,0.216243654822335
+regularised_marked_hawkes_tuned,2021-H2,2021-12,Security & Misuse,2,0.2857142857142857,0.16598984771573605
+regularised_marked_hawkes_tuned,2021-H2,2021-12,Autonomous Actions,1,0.14285714285714285,0.21370558375634519
+regularised_marked_hawkes_tuned,2021-H2,2021-12,"Governance, Oversight & Explainability",1,0.14285714285714285,0.06040609137055837
+regularised_marked_hawkes_tuned,2022-H1,2022-01,Reliability,0,0.0,0.11553610503282277
+regularised_marked_hawkes_tuned,2022-H1,2022-01,Bias & Fairness,2,0.2857142857142857,0.22275711159737419
+regularised_marked_hawkes_tuned,2022-H1,2022-01,"Privacy, Confidentiality & Infringement",3,0.42857142857142855,0.18512035010940922
+regularised_marked_hawkes_tuned,2022-H1,2022-01,Security & Misuse,1,0.14285714285714285,0.21881838074398252
+regularised_marked_hawkes_tuned,2022-H1,2022-01,Autonomous Actions,1,0.14285714285714285,0.1991247264770241
+regularised_marked_hawkes_tuned,2022-H1,2022-01,"Governance, Oversight & Explainability",0,0.0,0.058643326039387315
+regularised_marked_hawkes_tuned,2022-H1,2022-02,Reliability,0,0.0,0.11022787493375728
+regularised_marked_hawkes_tuned,2022-H1,2022-02,Bias & Fairness,1,0.1,0.22681505034446212
+regularised_marked_hawkes_tuned,2022-H1,2022-02,"Privacy, Confidentiality & Infringement",2,0.2,0.2199258081611023
+regularised_marked_hawkes_tuned,2022-H1,2022-02,Security & Misuse,2,0.2,0.1669316375198728
+regularised_marked_hawkes_tuned,2022-H1,2022-02,Autonomous Actions,3,0.3,0.20985691573926868
+regularised_marked_hawkes_tuned,2022-H1,2022-02,"Governance, Oversight & Explainability",2,0.2,0.06624271330153683
+regularised_marked_hawkes_tuned,2022-H1,2022-03,Reliability,1,0.1,0.11288759689922481
+regularised_marked_hawkes_tuned,2022-H1,2022-03,Bias & Fairness,1,0.1,0.22674418604651161
+regularised_marked_hawkes_tuned,2022-H1,2022-03,"Privacy, Confidentiality & Infringement",2,0.2,0.22916666666666669
+regularised_marked_hawkes_tuned,2022-H1,2022-03,Security & Misuse,2,0.2,0.1569767441860465
+regularised_marked_hawkes_tuned,2022-H1,2022-03,Autonomous Actions,3,0.3,0.21317829457364343
+regularised_marked_hawkes_tuned,2022-H1,2022-03,"Governance, Oversight & Explainability",1,0.1,0.06104651162790698
+regularised_marked_hawkes_tuned,2022-H1,2022-04,Reliability,1,0.1,0.10965794768611668
+regularised_marked_hawkes_tuned,2022-H1,2022-04,Bias & Fairness,2,0.2,0.23340040241448687
+regularised_marked_hawkes_tuned,2022-H1,2022-04,"Privacy, Confidentiality & Infringement",1,0.1,0.22032193158953717
+regularised_marked_hawkes_tuned,2022-H1,2022-04,Security & Misuse,2,0.2,0.15492957746478872
+regularised_marked_hawkes_tuned,2022-H1,2022-04,Autonomous Actions,4,0.4,0.21529175050301808
+regularised_marked_hawkes_tuned,2022-H1,2022-04,"Governance, Oversight & Explainability",0,0.0,0.0663983903420523
+regularised_marked_hawkes_tuned,2022-H1,2022-05,Reliability,0,0.0,0.11105527638190955
+regularised_marked_hawkes_tuned,2022-H1,2022-05,Bias & Fairness,1,0.16666666666666666,0.23115577889447236
+regularised_marked_hawkes_tuned,2022-H1,2022-05,"Privacy, Confidentiality & Infringement",2,0.3333333333333333,0.20753768844221107
+regularised_marked_hawkes_tuned,2022-H1,2022-05,Security & Misuse,1,0.16666666666666666,0.15678391959798996
+regularised_marked_hawkes_tuned,2022-H1,2022-05,Autonomous Actions,2,0.3333333333333333,0.2241206030150754
+regularised_marked_hawkes_tuned,2022-H1,2022-05,"Governance, Oversight & Explainability",0,0.0,0.06934673366834171
+regularised_marked_hawkes_tuned,2022-H1,2022-06,Reliability,2,0.2222222222222222,0.13333333333333336
+regularised_marked_hawkes_tuned,2022-H1,2022-06,Bias & Fairness,1,0.1111111111111111,0.20398009950248758
+regularised_marked_hawkes_tuned,2022-H1,2022-06,"Privacy, Confidentiality & Infringement",1,0.1111111111111111,0.20746268656716418
+regularised_marked_hawkes_tuned,2022-H1,2022-06,Security & Misuse,3,0.3333333333333333,0.18358208955223881
+regularised_marked_hawkes_tuned,2022-H1,2022-06,Autonomous Actions,2,0.2222222222222222,0.20746268656716418
+regularised_marked_hawkes_tuned,2022-H1,2022-06,"Governance, Oversight & Explainability",0,0.0,0.06417910447761195
+regularised_marked_hawkes_tuned,2022-H2,2022-07,Reliability,0,0.0,0.10475325317707937
+regularised_marked_hawkes_tuned,2022-H2,2022-07,Bias & Fairness,1,0.2,0.21966523349313855
+regularised_marked_hawkes_tuned,2022-H2,2022-07,"Privacy, Confidentiality & Infringement",1,0.2,0.21469034573725998
+regularised_marked_hawkes_tuned,2022-H2,2022-07,Security & Misuse,1,0.2,0.18522277604444107
+regularised_marked_hawkes_tuned,2022-H2,2022-07,Autonomous Actions,2,0.4,0.21783127869517796
+regularised_marked_hawkes_tuned,2022-H2,2022-07,"Governance, Oversight & Explainability",0,0.0,0.05783711285290313
+regularised_marked_hawkes_tuned,2022-H2,2022-08,Reliability,1,0.125,0.10569614771703734
+regularised_marked_hawkes_tuned,2022-H2,2022-08,Bias & Fairness,3,0.375,0.22041415506131778
+regularised_marked_hawkes_tuned,2022-H2,2022-08,"Privacy, Confidentiality & Infringement",1,0.125,0.21674374696875215
+regularised_marked_hawkes_tuned,2022-H2,2022-08,Security & Misuse,2,0.25,0.16736385366867595
+regularised_marked_hawkes_tuned,2022-H2,2022-08,Autonomous Actions,1,0.125,0.22166822559412458
+regularised_marked_hawkes_tuned,2022-H2,2022-08,"Governance, Oversight & Explainability",0,0.0,0.06811387099009215
+regularised_marked_hawkes_tuned,2022-H2,2022-09,Reliability,0,0.0,0.11599417013459304
+regularised_marked_hawkes_tuned,2022-H2,2022-09,Bias & Fairness,0,0.0,0.21814334720503883
+regularised_marked_hawkes_tuned,2022-H2,2022-09,"Privacy, Confidentiality & Infringement",0,0.0,0.20656328496981968
+regularised_marked_hawkes_tuned,2022-H2,2022-09,Security & Misuse,2,0.2857142857142857,0.16387217410864918
+regularised_marked_hawkes_tuned,2022-H2,2022-09,Autonomous Actions,2,0.2857142857142857,0.2357829078093953
+regularised_marked_hawkes_tuned,2022-H2,2022-09,"Governance, Oversight & Explainability",3,0.42857142857142855,0.05964411577250403
+regularised_marked_hawkes_tuned,2022-H2,2022-10,Reliability,0,0.0,0.11206384317568283
+regularised_marked_hawkes_tuned,2022-H2,2022-10,Bias & Fairness,2,0.3333333333333333,0.21780665475401334
+regularised_marked_hawkes_tuned,2022-H2,2022-10,"Privacy, Confidentiality & Infringement",1,0.16666666666666666,0.21339681144383277
+regularised_marked_hawkes_tuned,2022-H2,2022-10,Security & Misuse,2,0.3333333333333333,0.1694919589589878
+regularised_marked_hawkes_tuned,2022-H2,2022-10,Autonomous Actions,0,0.0,0.2225111921299632
+regularised_marked_hawkes_tuned,2022-H2,2022-10,"Governance, Oversight & Explainability",1,0.16666666666666666,0.06472953953752006
+regularised_marked_hawkes_tuned,2022-H2,2022-11,Reliability,7,0.3888888888888889,0.11161689866786409
+regularised_marked_hawkes_tuned,2022-H2,2022-11,Bias & Fairness,1,0.05555555555555555,0.22353502469690167
+regularised_marked_hawkes_tuned,2022-H2,2022-11,"Privacy, Confidentiality & Infringement",3,0.16666666666666666,0.20854101182457718
+regularised_marked_hawkes_tuned,2022-H2,2022-11,Security & Misuse,3,0.16666666666666666,0.1704928154467894
+regularised_marked_hawkes_tuned,2022-H2,2022-11,Autonomous Actions,3,0.16666666666666666,0.22664084717856608
+regularised_marked_hawkes_tuned,2022-H2,2022-11,"Governance, Oversight & Explainability",1,0.05555555555555555,0.05917340218530161
+regularised_marked_hawkes_tuned,2022-H2,2022-12,Reliability,2,0.2,0.12056876175127584
+regularised_marked_hawkes_tuned,2022-H2,2022-12,Bias & Fairness,2,0.2,0.21982070910556
+regularised_marked_hawkes_tuned,2022-H2,2022-12,"Privacy, Confidentiality & Infringement",2,0.2,0.2028921568627451
+regularised_marked_hawkes_tuned,2022-H2,2022-12,Security & Misuse,1,0.1,0.17007453666398065
+regularised_marked_hawkes_tuned,2022-H2,2022-12,Autonomous Actions,3,0.3,0.22032030620467363
+regularised_marked_hawkes_tuned,2022-H2,2022-12,"Governance, Oversight & Explainability",0,0.0,0.0663235294117647
+regularised_marked_hawkes_tuned,2023-H1,2023-01,Reliability,2,0.15384615384615385,0.11861575178997615
+regularised_marked_hawkes_tuned,2023-H1,2023-01,Bias & Fairness,1,0.07692307692307693,0.20143198090692127
+regularised_marked_hawkes_tuned,2023-H1,2023-01,"Privacy, Confidentiality & Infringement",2,0.15384615384615385,0.16276849642004773
+regularised_marked_hawkes_tuned,2023-H1,2023-01,Security & Misuse,5,0.38461538461538464,0.23794749403341292
+regularised_marked_hawkes_tuned,2023-H1,2023-01,Autonomous Actions,2,0.15384615384615385,0.2035799522673031
+regularised_marked_hawkes_tuned,2023-H1,2023-01,"Governance, Oversight & Explainability",1,0.07692307692307693,0.07565632458233891
+regularised_marked_hawkes_tuned,2023-H1,2023-02,Reliability,5,0.16129032258064516,0.11006114508060032
+regularised_marked_hawkes_tuned,2023-H1,2023-02,Bias & Fairness,0,0.0,0.2128960533629794
+regularised_marked_hawkes_tuned,2023-H1,2023-02,"Privacy, Confidentiality & Infringement",6,0.1935483870967742,0.16564758198999444
+regularised_marked_hawkes_tuned,2023-H1,2023-02,Security & Misuse,16,0.5161290322580645,0.23235130628126732
+regularised_marked_hawkes_tuned,2023-H1,2023-02,Autonomous Actions,4,0.12903225806451613,0.20733740967203998
+regularised_marked_hawkes_tuned,2023-H1,2023-02,"Governance, Oversight & Explainability",0,0.0,0.0717065036131184
+regularised_marked_hawkes_tuned,2023-H1,2023-03,Reliability,4,0.25,0.12478729438457177
+regularised_marked_hawkes_tuned,2023-H1,2023-03,Bias & Fairness,0,0.0,0.22007941009642656
+regularised_marked_hawkes_tuned,2023-H1,2023-03,"Privacy, Confidentiality & Infringement",5,0.3125,0.17640385706182643
+regularised_marked_hawkes_tuned,2023-H1,2023-03,Security & Misuse,4,0.25,0.21157118547929665
+regularised_marked_hawkes_tuned,2023-H1,2023-03,Autonomous Actions,2,0.125,0.20249574588769143
+regularised_marked_hawkes_tuned,2023-H1,2023-03,"Governance, Oversight & Explainability",1,0.0625,0.06466250709018719
+regularised_marked_hawkes_tuned,2023-H1,2023-04,Reliability,1,0.125,0.13189448441247004
+regularised_marked_hawkes_tuned,2023-H1,2023-04,Bias & Fairness,0,0.0,0.21163069544364507
+regularised_marked_hawkes_tuned,2023-H1,2023-04,"Privacy, Confidentiality & Infringement",0,0.0,0.17925659472422065
+regularised_marked_hawkes_tuned,2023-H1,2023-04,Security & Misuse,6,0.75,0.21163069544364507
+regularised_marked_hawkes_tuned,2023-H1,2023-04,Autonomous Actions,1,0.125,0.20203836930455638
+regularised_marked_hawkes_tuned,2023-H1,2023-04,"Governance, Oversight & Explainability",0,0.0,0.06354916067146284
+regularised_marked_hawkes_tuned,2023-H1,2023-05,Reliability,4,0.2222222222222222,0.12819750148720999
+regularised_marked_hawkes_tuned,2023-H1,2023-05,Bias & Fairness,1,0.05555555555555555,0.202558001189768
+regularised_marked_hawkes_tuned,2023-H1,2023-05,"Privacy, Confidentiality & Infringement",3,0.16666666666666666,0.17697798929208805
+regularised_marked_hawkes_tuned,2023-H1,2023-05,Security & Misuse,5,0.2777777777777778,0.21386079714455683
+regularised_marked_hawkes_tuned,2023-H1,2023-05,Autonomous Actions,4,0.2222222222222222,0.21207614515169543
+regularised_marked_hawkes_tuned,2023-H1,2023-05,"Governance, Oversight & Explainability",1,0.05555555555555555,0.06632956573468174
+regularised_marked_hawkes_tuned,2023-H1,2023-06,Reliability,3,0.2,0.13601286173633445
+regularised_marked_hawkes_tuned,2023-H1,2023-06,Bias & Fairness,4,0.26666666666666666,0.2135048231511254
+regularised_marked_hawkes_tuned,2023-H1,2023-06,"Privacy, Confidentiality & Infringement",2,0.13333333333333333,0.17427652733118973
+regularised_marked_hawkes_tuned,2023-H1,2023-06,Security & Misuse,5,0.3333333333333333,0.20707395498392286
+regularised_marked_hawkes_tuned,2023-H1,2023-06,Autonomous Actions,1,0.06666666666666667,0.20257234726688103
+regularised_marked_hawkes_tuned,2023-H1,2023-06,"Governance, Oversight & Explainability",0,0.0,0.06655948553054664
+regularised_marked_hawkes_tuned,2023-H2,2023-07,Reliability,1,0.14285714285714285,0.18341121495327103
+regularised_marked_hawkes_tuned,2023-H2,2023-07,Bias & Fairness,2,0.2857142857142857,0.11214953271028037
+regularised_marked_hawkes_tuned,2023-H2,2023-07,"Privacy, Confidentiality & Infringement",1,0.14285714285714285,0.1802403204272363
+regularised_marked_hawkes_tuned,2023-H2,2023-07,Security & Misuse,2,0.2857142857142857,0.32109479305740984
+regularised_marked_hawkes_tuned,2023-H2,2023-07,Autonomous Actions,0,0.0,0.1633845126835781
+regularised_marked_hawkes_tuned,2023-H2,2023-07,"Governance, Oversight & Explainability",1,0.14285714285714285,0.0397196261682243
+regularised_marked_hawkes_tuned,2023-H2,2023-08,Reliability,1,0.1,0.17986230636833045
+regularised_marked_hawkes_tuned,2023-H2,2023-08,Bias & Fairness,0,0.0,0.11635111876075732
+regularised_marked_hawkes_tuned,2023-H2,2023-08,"Privacy, Confidentiality & Infringement",1,0.1,0.18777969018932877
+regularised_marked_hawkes_tuned,2023-H2,2023-08,Security & Misuse,5,0.5,0.3122203098106713
+regularised_marked_hawkes_tuned,2023-H2,2023-08,Autonomous Actions,2,0.2,0.16523235800344233
+regularised_marked_hawkes_tuned,2023-H2,2023-08,"Governance, Oversight & Explainability",1,0.1,0.03855421686746988
+regularised_marked_hawkes_tuned,2023-H2,2023-09,Reliability,1,0.16666666666666666,0.17679456581604555
+regularised_marked_hawkes_tuned,2023-H2,2023-09,Bias & Fairness,0,0.0,0.12428859922893336
+regularised_marked_hawkes_tuned,2023-H2,2023-09,"Privacy, Confidentiality & Infringement",3,0.5,0.1830365338718561
+regularised_marked_hawkes_tuned,2023-H2,2023-09,Security & Misuse,1,0.16666666666666666,0.3049384982559207
+regularised_marked_hawkes_tuned,2023-H2,2023-09,Autonomous Actions,1,0.16666666666666666,0.16798237561960713
+regularised_marked_hawkes_tuned,2023-H2,2023-09,"Governance, Oversight & Explainability",0,0.0,0.04295942720763723
+regularised_marked_hawkes_tuned,2023-H2,2023-10,Reliability,0,0.0,0.17797389225960653
+regularised_marked_hawkes_tuned,2023-H2,2023-10,Bias & Fairness,3,0.16666666666666666,0.12410369553226695
+regularised_marked_hawkes_tuned,2023-H2,2023-10,"Privacy, Confidentiality & Infringement",1,0.05555555555555555,0.17245817245817247
+regularised_marked_hawkes_tuned,2023-H2,2023-10,Security & Misuse,11,0.6111111111111112,0.3118220261077404
+regularised_marked_hawkes_tuned,2023-H2,2023-10,Autonomous Actions,3,0.16666666666666666,0.17061959919102776
+regularised_marked_hawkes_tuned,2023-H2,2023-10,"Governance, Oversight & Explainability",0,0.0,0.043022614451185874
+regularised_marked_hawkes_tuned,2023-H2,2023-11,Reliability,1,0.1,0.1654091700522345
+regularised_marked_hawkes_tuned,2023-H2,2023-11,Bias & Fairness,2,0.2,0.11549622751015672
+regularised_marked_hawkes_tuned,2023-H2,2023-11,"Privacy, Confidentiality & Infringement",0,0.0,0.1849487328303347
+regularised_marked_hawkes_tuned,2023-H2,2023-11,Security & Misuse,4,0.4,0.3134068485200232
+regularised_marked_hawkes_tuned,2023-H2,2023-11,Autonomous Actions,3,0.3,0.17314761075643256
+regularised_marked_hawkes_tuned,2023-H2,2023-11,"Governance, Oversight & Explainability",0,0.0,0.047591410330818346
+regularised_marked_hawkes_tuned,2023-H2,2023-12,Reliability,2,0.09090909090909091,0.175308158873019
+regularised_marked_hawkes_tuned,2023-H2,2023-12,Bias & Fairness,2,0.09090909090909091,0.12541576990804149
+regularised_marked_hawkes_tuned,2023-H2,2023-12,"Privacy, Confidentiality & Infringement",2,0.09090909090909091,0.179612600273919
+regularised_marked_hawkes_tuned,2023-H2,2023-12,Security & Misuse,12,0.5454545454545454,0.2944629231070241
+regularised_marked_hawkes_tuned,2023-H2,2023-12,Autonomous Actions,2,0.09090909090909091,0.17922128741929172
+regularised_marked_hawkes_tuned,2023-H2,2023-12,"Governance, Oversight & Explainability",2,0.09090909090909091,0.04597926041870476
+regularised_marked_hawkes_tuned,2024-H1,2024-01,Reliability,3,0.1875,0.16902576467146208
+regularised_marked_hawkes_tuned,2024-H1,2024-01,Bias & Fairness,0,0.0,0.1187216695573237
+regularised_marked_hawkes_tuned,2024-H1,2024-01,"Privacy, Confidentiality & Infringement",1,0.0625,0.11231594605643246
+regularised_marked_hawkes_tuned,2024-H1,2024-01,Security & Misuse,10,0.625,0.4027707285658033
+regularised_marked_hawkes_tuned,2024-H1,2024-01,Autonomous Actions,1,0.0625,0.15130819138053173
+regularised_marked_hawkes_tuned,2024-H1,2024-01,"Governance, Oversight & Explainability",1,0.0625,0.045857699768446857
+regularised_marked_hawkes_tuned,2024-H1,2024-02,Reliability,1,0.038461538461538464,0.16982000301431963
+regularised_marked_hawkes_tuned,2024-H1,2024-02,Bias & Fairness,2,0.07692307692307693,0.11951293931563146
+regularised_marked_hawkes_tuned,2024-H1,2024-02,"Privacy, Confidentiality & Infringement",4,0.15384615384615385,0.12362318135155229
+regularised_marked_hawkes_tuned,2024-H1,2024-02,Security & Misuse,14,0.5384615384615384,0.39049348890869834
+regularised_marked_hawkes_tuned,2024-H1,2024-02,Autonomous Actions,3,0.11538461538461539,0.15252928636787355
+regularised_marked_hawkes_tuned,2024-H1,2024-02,"Governance, Oversight & Explainability",2,0.07692307692307693,0.04402110104192479
+regularised_marked_hawkes_tuned,2024-H1,2024-03,Reliability,2,0.10526315789473684,0.16436599952977132
+regularised_marked_hawkes_tuned,2024-H1,2024-03,Bias & Fairness,1,0.05263157894736842,0.12100944865690941
+regularised_marked_hawkes_tuned,2024-H1,2024-03,"Privacy, Confidentiality & Infringement",0,0.0,0.1323712014341974
+regularised_marked_hawkes_tuned,2024-H1,2024-03,Security & Misuse,15,0.7894736842105263,0.37409326691353667
+regularised_marked_hawkes_tuned,2024-H1,2024-03,Autonomous Actions,1,0.05263157894736842,0.15615360312702048
+regularised_marked_hawkes_tuned,2024-H1,2024-03,"Governance, Oversight & Explainability",0,0.0,0.05200648033856462
+regularised_marked_hawkes_tuned,2024-H1,2024-04,Reliability,6,0.17647058823529413,0.16292699653323986
+regularised_marked_hawkes_tuned,2024-H1,2024-04,Bias & Fairness,6,0.17647058823529413,0.11414845269235728
+regularised_marked_hawkes_tuned,2024-H1,2024-04,"Privacy, Confidentiality & Infringement",2,0.058823529411764705,0.13824015104527165
+regularised_marked_hawkes_tuned,2024-H1,2024-04,Security & Misuse,16,0.47058823529411764,0.3950428438519691
+regularised_marked_hawkes_tuned,2024-H1,2024-04,Autonomous Actions,1,0.029411764705882353,0.15176489778001506
+regularised_marked_hawkes_tuned,2024-H1,2024-04,"Governance, Oversight & Explainability",3,0.08823529411764706,0.037876658097147194
+regularised_marked_hawkes_tuned,2024-H1,2024-05,Reliability,9,0.36,0.1602967438422411
+regularised_marked_hawkes_tuned,2024-H1,2024-05,Bias & Fairness,1,0.04,0.12193597308877696
+regularised_marked_hawkes_tuned,2024-H1,2024-05,"Privacy, Confidentiality & Infringement",3,0.12,0.13520925731038114
+regularised_marked_hawkes_tuned,2024-H1,2024-05,Security & Misuse,7,0.28,0.3829111666541381
+regularised_marked_hawkes_tuned,2024-H1,2024-05,Autonomous Actions,2,0.08,0.15362411360845923
+regularised_marked_hawkes_tuned,2024-H1,2024-05,"Governance, Oversight & Explainability",3,0.12,0.0460227454960034
+regularised_marked_hawkes_tuned,2024-H1,2024-06,Reliability,5,0.19230769230769232,0.15906767631978633
+regularised_marked_hawkes_tuned,2024-H1,2024-06,Bias & Fairness,1,0.038461538461538464,0.11308258921745513
+regularised_marked_hawkes_tuned,2024-H1,2024-06,"Privacy, Confidentiality & Infringement",4,0.15384615384615385,0.14073503103880614
+regularised_marked_hawkes_tuned,2024-H1,2024-06,Security & Misuse,11,0.4230769230769231,0.3759792896241705
+regularised_marked_hawkes_tuned,2024-H1,2024-06,Autonomous Actions,4,0.15384615384615385,0.16006978634700264
+regularised_marked_hawkes_tuned,2024-H1,2024-06,"Governance, Oversight & Explainability",1,0.038461538461538464,0.051065627452779226
+regularised_marked_hawkes_tuned,2024-H2,2024-07,Reliability,6,0.24,0.17257257257257258
+regularised_marked_hawkes_tuned,2024-H2,2024-07,Bias & Fairness,2,0.08,0.08378378378378379
+regularised_marked_hawkes_tuned,2024-H2,2024-07,"Privacy, Confidentiality & Infringement",4,0.16,0.12892892892892896
+regularised_marked_hawkes_tuned,2024-H2,2024-07,Security & Misuse,12,0.48,0.4296296296296297
+regularised_marked_hawkes_tuned,2024-H2,2024-07,Autonomous Actions,1,0.04,0.12942942942942945
+regularised_marked_hawkes_tuned,2024-H2,2024-07,"Governance, Oversight & Explainability",0,0.0,0.05565565565565565
+regularised_marked_hawkes_tuned,2024-H2,2024-08,Reliability,4,0.16666666666666666,0.17081310679611653
+regularised_marked_hawkes_tuned,2024-H2,2024-08,Bias & Fairness,2,0.08333333333333333,0.09132281553398058
+regularised_marked_hawkes_tuned,2024-H2,2024-08,"Privacy, Confidentiality & Infringement",3,0.125,0.13693365695792878
+regularised_marked_hawkes_tuned,2024-H2,2024-08,Security & Misuse,13,0.5416666666666666,0.4211165048543689
+regularised_marked_hawkes_tuned,2024-H2,2024-08,Autonomous Actions,2,0.08333333333333333,0.12206715210355987
+regularised_marked_hawkes_tuned,2024-H2,2024-08,"Governance, Oversight & Explainability",0,0.0,0.057746763754045305
+regularised_marked_hawkes_tuned,2024-H2,2024-09,Reliability,4,0.14285714285714285,0.17029177718832886
+regularised_marked_hawkes_tuned,2024-H2,2024-09,Bias & Fairness,1,0.03571428571428571,0.0889124668435013
+regularised_marked_hawkes_tuned,2024-H2,2024-09,"Privacy, Confidentiality & Infringement",4,0.14285714285714285,0.1262599469496021
+regularised_marked_hawkes_tuned,2024-H2,2024-09,Security & Misuse,15,0.5357142857142857,0.4422281167108752
+regularised_marked_hawkes_tuned,2024-H2,2024-09,Autonomous Actions,2,0.07142857142857142,0.1178779840848806
+regularised_marked_hawkes_tuned,2024-H2,2024-09,"Governance, Oversight & Explainability",2,0.07142857142857142,0.05442970822281166
+regularised_marked_hawkes_tuned,2024-H2,2024-10,Reliability,3,0.09090909090909091,0.17870798953511777
+regularised_marked_hawkes_tuned,2024-H2,2024-10,Bias & Fairness,3,0.09090909090909091,0.08744214127591064
+regularised_marked_hawkes_tuned,2024-H2,2024-10,"Privacy, Confidentiality & Infringement",7,0.21212121212121213,0.12296236667337493
+regularised_marked_hawkes_tuned,2024-H2,2024-10,Security & Misuse,15,0.45454545454545453,0.4260414570336084
+regularised_marked_hawkes_tuned,2024-H2,2024-10,Autonomous Actions,2,0.06060606060606061,0.12608170658080098
+regularised_marked_hawkes_tuned,2024-H2,2024-10,"Governance, Oversight & Explainability",3,0.09090909090909091,0.05876433890118736
+regularised_marked_hawkes_tuned,2024-H2,2024-11,Reliability,3,0.16666666666666666,0.17962666666666666
+regularised_marked_hawkes_tuned,2024-H2,2024-11,Bias & Fairness,1,0.05555555555555555,0.08416
+regularised_marked_hawkes_tuned,2024-H2,2024-11,"Privacy, Confidentiality & Infringement",2,0.1111111111111111,0.12554666666666667
+regularised_marked_hawkes_tuned,2024-H2,2024-11,Security & Misuse,12,0.6666666666666666,0.4244266666666667
+regularised_marked_hawkes_tuned,2024-H2,2024-11,Autonomous Actions,0,0.0,0.12810666666666667
+regularised_marked_hawkes_tuned,2024-H2,2024-11,"Governance, Oversight & Explainability",0,0.0,0.058133333333333335
+regularised_marked_hawkes_tuned,2024-H2,2024-12,Reliability,1,0.038461538461538464,0.17927257697871463
+regularised_marked_hawkes_tuned,2024-H2,2024-12,Bias & Fairness,3,0.11538461538461539,0.08782806364951436
+regularised_marked_hawkes_tuned,2024-H2,2024-12,"Privacy, Confidentiality & Infringement",1,0.038461538461538464,0.12450919611489977
+regularised_marked_hawkes_tuned,2024-H2,2024-12,Security & Misuse,20,0.7692307692307693,0.4211613969828476
+regularised_marked_hawkes_tuned,2024-H2,2024-12,Autonomous Actions,1,0.038461538461538464,0.1276090101260591
+regularised_marked_hawkes_tuned,2024-H2,2024-12,"Governance, Oversight & Explainability",0,0.0,0.05961975614796444
+regularised_marked_hawkes_tuned,2025-H1,2025-01,Reliability,3,0.09375,0.15239975067525452
+regularised_marked_hawkes_tuned,2025-H1,2025-01,Bias & Fairness,3,0.09375,0.08830251402451693
+regularised_marked_hawkes_tuned,2025-H1,2025-01,"Privacy, Confidentiality & Infringement",2,0.0625,0.09879493039684188
+regularised_marked_hawkes_tuned,2025-H1,2025-01,Security & Misuse,23,0.71875,0.542281321421151
+regularised_marked_hawkes_tuned,2025-H1,2025-01,Autonomous Actions,1,0.03125,0.0713692083939331
+regularised_marked_hawkes_tuned,2025-H1,2025-01,"Governance, Oversight & Explainability",0,0.0,0.04685227508830251
+regularised_marked_hawkes_tuned,2025-H1,2025-02,Reliability,7,0.14893617021276595,0.15508595988538681
+regularised_marked_hawkes_tuned,2025-H1,2025-02,Bias & Fairness,1,0.02127659574468085,0.08751193887297039
+regularised_marked_hawkes_tuned,2025-H1,2025-02,"Privacy, Confidentiality & Infringement",3,0.06382978723404255,0.10983763132760266
+regularised_marked_hawkes_tuned,2025-H1,2025-02,Security & Misuse,31,0.6595744680851063,0.5136103151862464
+regularised_marked_hawkes_tuned,2025-H1,2025-02,Autonomous Actions,5,0.10638297872340426,0.08416905444126074
+regularised_marked_hawkes_tuned,2025-H1,2025-02,"Governance, Oversight & Explainability",0,0.0,0.04978510028653295
+regularised_marked_hawkes_tuned,2025-H1,2025-03,Reliability,3,0.06818181818181818,0.1529888551165147
+regularised_marked_hawkes_tuned,2025-H1,2025-03,Bias & Fairness,6,0.13636363636363635,0.08972194078577057
+regularised_marked_hawkes_tuned,2025-H1,2025-03,"Privacy, Confidentiality & Infringement",3,0.06818181818181818,0.12146797253180232
+regularised_marked_hawkes_tuned,2025-H1,2025-03,Security & Misuse,30,0.6818181818181818,0.4969041990318586
+regularised_marked_hawkes_tuned,2025-H1,2025-03,Autonomous Actions,2,0.045454545454545456,0.08915906788247215
+regularised_marked_hawkes_tuned,2025-H1,2025-03,"Governance, Oversight & Explainability",0,0.0,0.04975796465158167
+regularised_marked_hawkes_tuned,2025-H1,2025-04,Reliability,8,0.1702127659574468,0.15341463414634146
+regularised_marked_hawkes_tuned,2025-H1,2025-04,Bias & Fairness,0,0.0,0.09560975609756098
+regularised_marked_hawkes_tuned,2025-H1,2025-04,"Privacy, Confidentiality & Infringement",5,0.10638297872340426,0.12829268292682927
+regularised_marked_hawkes_tuned,2025-H1,2025-04,Security & Misuse,29,0.6170212765957447,0.4892682926829268
+regularised_marked_hawkes_tuned,2025-H1,2025-04,Autonomous Actions,2,0.0425531914893617,0.08878048780487806
+regularised_marked_hawkes_tuned,2025-H1,2025-04,"Governance, Oversight & Explainability",3,0.06382978723404255,0.04463414634146342
+regularised_marked_hawkes_tuned,2025-H1,2025-05,Reliability,2,0.058823529411764705,0.1525172754195459
+regularised_marked_hawkes_tuned,2025-H1,2025-05,Bias & Fairness,2,0.058823529411764705,0.09809970384995065
+regularised_marked_hawkes_tuned,2025-H1,2025-05,"Privacy, Confidentiality & Infringement",3,0.08823529411764706,0.12388943731490622
+regularised_marked_hawkes_tuned,2025-H1,2025-05,Security & Misuse,20,0.5882352941176471,0.48321816386969396
+regularised_marked_hawkes_tuned,2025-H1,2025-05,Autonomous Actions,3,0.08823529411764706,0.09674234945705824
+regularised_marked_hawkes_tuned,2025-H1,2025-05,"Governance, Oversight & Explainability",4,0.11764705882352941,0.04553307008884502
+regularised_marked_hawkes_tuned,2025-H1,2025-06,Reliability,7,0.16279069767441862,0.15599173553719006
+regularised_marked_hawkes_tuned,2025-H1,2025-06,Bias & Fairness,2,0.046511627906976744,0.0971074380165289
+regularised_marked_hawkes_tuned,2025-H1,2025-06,"Privacy, Confidentiality & Infringement",2,0.046511627906976744,0.1261621900826446
+regularised_marked_hawkes_tuned,2025-H1,2025-06,Security & Misuse,28,0.6511627906976745,0.47456095041322305
+regularised_marked_hawkes_tuned,2025-H1,2025-06,Autonomous Actions,2,0.046511627906976744,0.09633264462809915
+regularised_marked_hawkes_tuned,2025-H1,2025-06,"Governance, Oversight & Explainability",2,0.046511627906976744,0.049845041322314036
+regularised_marked_hawkes_tuned,2025-H2,2025-07,Reliability,5,0.1282051282051282,0.16374232748465498
+regularised_marked_hawkes_tuned,2025-H2,2025-07,Bias & Fairness,4,0.10256410256410256,0.0698741397482795
+regularised_marked_hawkes_tuned,2025-H2,2025-07,"Privacy, Confidentiality & Infringement",6,0.15384615384615385,0.08686217372434746
+regularised_marked_hawkes_tuned,2025-H2,2025-07,Security & Misuse,19,0.48717948717948717,0.5651311302622606
+regularised_marked_hawkes_tuned,2025-H2,2025-07,Autonomous Actions,3,0.07692307692307693,0.07092814185628371
+regularised_marked_hawkes_tuned,2025-H2,2025-07,"Governance, Oversight & Explainability",2,0.05128205128205128,0.04346208692417385
+regularised_marked_hawkes_tuned,2025-H2,2025-08,Reliability,5,0.15151515151515152,0.16637947539728126
+regularised_marked_hawkes_tuned,2025-H2,2025-08,Bias & Fairness,2,0.06060606060606061,0.07007466973004021
+regularised_marked_hawkes_tuned,2025-H2,2025-08,"Privacy, Confidentiality & Infringement",2,0.06060606060606061,0.09170974535707448
+regularised_marked_hawkes_tuned,2025-H2,2025-08,Security & Misuse,19,0.5757575757575758,0.5527474631437871
+regularised_marked_hawkes_tuned,2025-H2,2025-08,Autonomous Actions,3,0.09090909090909091,0.07218073903886656
+regularised_marked_hawkes_tuned,2025-H2,2025-08,"Governance, Oversight & Explainability",2,0.06060606060606061,0.04690790733295041
+regularised_marked_hawkes_tuned,2025-H2,2025-09,Reliability,2,0.11764705882352941,0.16472959355055425
+regularised_marked_hawkes_tuned,2025-H2,2025-09,Bias & Fairness,1,0.058823529411764705,0.0690628149143433
+regularised_marked_hawkes_tuned,2025-H2,2025-09,"Privacy, Confidentiality & Infringement",1,0.058823529411764705,0.0947934161907961
+regularised_marked_hawkes_tuned,2025-H2,2025-09,Security & Misuse,10,0.5882352941176471,0.5539805172992945
+regularised_marked_hawkes_tuned,2025-H2,2025-09,Autonomous Actions,2,0.11764705882352941,0.07262344642257307
+regularised_marked_hawkes_tuned,2025-H2,2025-09,"Governance, Oversight & Explainability",1,0.058823529411764705,0.0448102116224387
+regularised_marked_hawkes_tuned,2025-H2,2025-10,Reliability,8,0.1951219512195122,0.16344675446219667
+regularised_marked_hawkes_tuned,2025-H2,2025-10,Bias & Fairness,3,0.07317073170731707,0.07059295407447022
+regularised_marked_hawkes_tuned,2025-H2,2025-10,"Privacy, Confidentiality & Infringement",1,0.024390243902439025,0.09445818570760078
+regularised_marked_hawkes_tuned,2025-H2,2025-10,Security & Misuse,24,0.5853658536585366,0.5504378634935491
+regularised_marked_hawkes_tuned,2025-H2,2025-10,Autonomous Actions,4,0.0975609756097561,0.07433651982084363
+regularised_marked_hawkes_tuned,2025-H2,2025-10,"Governance, Oversight & Explainability",1,0.024390243902439025,0.04672772244133966
+regularised_marked_hawkes_tuned,2025-H2,2025-11,Reliability,3,0.10714285714285714,0.1637090552009539
+regularised_marked_hawkes_tuned,2025-H2,2025-11,Bias & Fairness,1,0.03571428571428571,0.06803675387528933
+regularised_marked_hawkes_tuned,2025-H2,2025-11,"Privacy, Confidentiality & Infringement",6,0.21428571428571427,0.10310724556358279
+regularised_marked_hawkes_tuned,2025-H2,2025-11,Security & Misuse,16,0.5714285714285714,0.5411376867503683
+regularised_marked_hawkes_tuned,2025-H2,2025-11,Autonomous Actions,1,0.03571428571428571,0.07848776039840079
+regularised_marked_hawkes_tuned,2025-H2,2025-11,"Governance, Oversight & Explainability",1,0.03571428571428571,0.04552149821140493
+regularised_marked_hawkes_tuned,2025-H2,2025-12,Reliability,9,0.20454545454545456,0.16059822489342374
+regularised_marked_hawkes_tuned,2025-H2,2025-12,Bias & Fairness,1,0.022727272727272728,0.07142357956530856
+regularised_marked_hawkes_tuned,2025-H2,2025-12,"Privacy, Confidentiality & Infringement",4,0.09090909090909091,0.1050387867775526
+regularised_marked_hawkes_tuned,2025-H2,2025-12,Security & Misuse,22,0.5,0.5371444545391013
+regularised_marked_hawkes_tuned,2025-H2,2025-12,Autonomous Actions,7,0.1590909090909091,0.07743378293381789
+regularised_marked_hawkes_tuned,2025-H2,2025-12,"Governance, Oversight & Explainability",1,0.022727272727272728,0.04836117129079601
+regularised_marked_hawkes_tuned,2026-H1,2026-01,Reliability,9,0.23684210526315788,0.1476176974873315
+regularised_marked_hawkes_tuned,2026-H1,2026-01,Bias & Fairness,0,0.0,0.07738512498835998
+regularised_marked_hawkes_tuned,2026-H1,2026-01,"Privacy, Confidentiality & Infringement",8,0.21052631578947367,0.11057291111071511
+regularised_marked_hawkes_tuned,2026-H1,2026-01,Security & Misuse,15,0.39473684210526316,0.5310202653503647
+regularised_marked_hawkes_tuned,2026-H1,2026-01,Autonomous Actions,6,0.15789473684210525,0.08868271834152383
+regularised_marked_hawkes_tuned,2026-H1,2026-01,"Governance, Oversight & Explainability",0,0.0,0.04472128272170491
+regularised_marked_hawkes_tuned,2026-H1,2026-02,Reliability,1,0.034482758620689655,0.14192041962571786
+regularised_marked_hawkes_tuned,2026-H1,2026-02,Bias & Fairness,3,0.10344827586206896,0.07982895828231522
+regularised_marked_hawkes_tuned,2026-H1,2026-02,"Privacy, Confidentiality & Infringement",6,0.20689655172413793,0.11036235375901539
+regularised_marked_hawkes_tuned,2026-H1,2026-02,Security & Misuse,10,0.3448275862068966,0.5264568327421814
+regularised_marked_hawkes_tuned,2026-H1,2026-02,Autonomous Actions,6,0.20689655172413793,0.09546974855635164
+regularised_marked_hawkes_tuned,2026-H1,2026-02,"Governance, Oversight & Explainability",3,0.10344827586206896,0.045961687034418476
+regularised_marked_hawkes_tuned,2026-H1,2026-03,Reliability,4,0.16,0.142851270378766
+regularised_marked_hawkes_tuned,2026-H1,2026-03,Bias & Fairness,1,0.04,0.08306290170617264
+regularised_marked_hawkes_tuned,2026-H1,2026-03,"Privacy, Confidentiality & Infringement",2,0.08,0.11125632390849419
+regularised_marked_hawkes_tuned,2026-H1,2026-03,Security & Misuse,12,0.48,0.5230672549806124
+regularised_marked_hawkes_tuned,2026-H1,2026-03,Autonomous Actions,4,0.16,0.09464634309399654
+regularised_marked_hawkes_tuned,2026-H1,2026-03,"Governance, Oversight & Explainability",2,0.08,0.04511590593195833
+regularised_marked_hawkes_tuned,2026-H1,2026-04,Reliability,3,0.12,0.13837287209580265
+regularised_marked_hawkes_tuned,2026-H1,2026-04,Bias & Fairness,1,0.04,0.08482260774927293
+regularised_marked_hawkes_tuned,2026-H1,2026-04,"Privacy, Confidentiality & Infringement",2,0.08,0.11663564642298498
+regularised_marked_hawkes_tuned,2026-H1,2026-04,Security & Misuse,11,0.44,0.5206928298410434
+regularised_marked_hawkes_tuned,2026-H1,2026-04,Autonomous Actions,7,0.28,0.0950834233620287
+regularised_marked_hawkes_tuned,2026-H1,2026-04,"Governance, Oversight & Explainability",1,0.04,0.04439262052886743
+regularised_marked_hawkes_tuned,2026-H1,2026-05,Reliability,6,0.2,0.14579337146098506
+regularised_marked_hawkes_tuned,2026-H1,2026-05,Bias & Fairness,1,0.03333333333333333,0.0824938863502303
+regularised_marked_hawkes_tuned,2026-H1,2026-05,"Privacy, Confidentiality & Infringement",4,0.13333333333333333,0.11684552266613966
+regularised_marked_hawkes_tuned,2026-H1,2026-05,Security & Misuse,11,0.36666666666666664,0.5113769855218515
+regularised_marked_hawkes_tuned,2026-H1,2026-05,Autonomous Actions,5,0.16666666666666666,0.09921027183678026
+regularised_marked_hawkes_tuned,2026-H1,2026-05,"Governance, Oversight & Explainability",3,0.1,0.04427996216401327
+regularised_marked_hawkes_tuned,2026-H1,2026-06,Reliability,3,0.15,0.14150124332952
+regularised_marked_hawkes_tuned,2026-H1,2026-06,Bias & Fairness,1,0.05,0.0879323053315888
+regularised_marked_hawkes_tuned,2026-H1,2026-06,"Privacy, Confidentiality & Infringement",5,0.25,0.11954774316853797
+regularised_marked_hawkes_tuned,2026-H1,2026-06,Security & Misuse,7,0.35,0.5007726453804999
+regularised_marked_hawkes_tuned,2026-H1,2026-06,Autonomous Actions,4,0.2,0.10220976989841006
+regularised_marked_hawkes_tuned,2026-H1,2026-06,"Governance, Oversight & Explainability",0,0.0,0.0480362928914433

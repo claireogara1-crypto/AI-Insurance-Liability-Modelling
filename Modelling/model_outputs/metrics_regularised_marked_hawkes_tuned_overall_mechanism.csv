@@ -1,0 +1,2 @@
+model,mae,rmse,mean_log_score_per_incident
+regularised_marked_hawkes_tuned,0.09241379944191433,0.12356377335669076,-1.6368380107420974

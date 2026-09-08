@@ -1,0 +1,79 @@
+fold,category,selected_degree,aic,status,total_training_count,nonzero_training_months
+2020-H1,Reliability,1,72.52987334907175,poisson,18.0,15
+2020-H1,Bias & Fairness,1,117.4634881472933,poisson,44.0,26
+2020-H1,"Privacy, Confidentiality & Infringement",1,113.08856001605461,poisson,45.0,29
+2020-H1,Security & Misuse,1,70.82947167888913,poisson,17.0,13
+2020-H1,Autonomous Actions,1,124.09273998493191,poisson,47.0,29
+2020-H1,"Governance, Oversight & Explainability",1,52.66876318334093,poisson,10.0,10
+2020-H2,Reliability,1,89.40614956899881,poisson,24.0,20
+2020-H2,Bias & Fairness,1,132.49377244199434,poisson,51.0,29
+2020-H2,"Privacy, Confidentiality & Infringement",1,129.3095270287088,poisson,55.0,33
+2020-H2,Security & Misuse,1,91.62988895607756,poisson,32.0,18
+2020-H2,Autonomous Actions,1,140.84827634101373,poisson,52.0,32
+2020-H2,"Governance, Oversight & Explainability",1,60.745664799023,poisson,12.0,12
+2021-H1,Reliability,1,103.41282869492457,poisson,31.0,24
+2021-H1,Bias & Fairness,2,153.52670801303464,poisson,66.0,35
+2021-H1,"Privacy, Confidentiality & Infringement",2,146.3518921750845,poisson,63.0,36
+2021-H1,Security & Misuse,1,109.82973734838679,poisson,40.0,23
+2021-H1,Autonomous Actions,1,154.8035333462758,poisson,59.0,36
+2021-H1,"Governance, Oversight & Explainability",1,69.15824143464954,poisson,14.0,14
+2021-H2,Reliability,1,117.97968631356416,poisson,37.0,28
+2021-H2,Bias & Fairness,1,169.42894935287006,poisson,73.0,40
+2021-H2,"Privacy, Confidentiality & Infringement",2,159.99091694582603,poisson,68.0,40
+2021-H2,Security & Misuse,1,129.27245232833957,poisson,50.0,28
+2021-H2,Autonomous Actions,1,170.89947231330405,poisson,67.0,41
+2021-H2,"Governance, Oversight & Explainability",2,85.42177955347198,poisson,20.0,19
+2022-H1,Reliability,1,131.0805617646659,poisson,41.0,31
+2022-H1,Bias & Fairness,1,182.38029625551636,poisson,80.0,45
+2022-H1,"Privacy, Confidentiality & Infringement",2,177.8892859970033,poisson,76.0,45
+2022-H1,Security & Misuse,2,144.00289320396752,poisson,56.0,32
+2022-H1,Autonomous Actions,1,189.0157547500116,poisson,77.0,46
+2022-H1,"Governance, Oversight & Explainability",2,97.37087455498434,poisson,23.0,22
+2022-H2,Reliability,1,143.84700548659453,poisson,45.0,34
+2022-H2,Bias & Fairness,1,197.0348498160103,poisson,88.0,51
+2022-H2,"Privacy, Confidentiality & Infringement",1,196.1601402097015,poisson,87.0,51
+2022-H2,Security & Misuse,2,160.1964841430307,poisson,67.0,38
+2022-H2,Autonomous Actions,1,208.58320479510834,poisson,92.0,52
+2022-H2,"Governance, Oversight & Explainability",1,108.95637453671269,poisson,26.0,24
+2023-H1,Reliability,1,163.5057150450939,poisson,55.0,37
+2023-H1,Bias & Fairness,1,215.73313997731867,poisson,97.0,56
+2023-H1,"Privacy, Confidentiality & Infringement",1,210.64745569861932,poisson,95.0,56
+2023-H1,Security & Misuse,2,176.54272075879862,poisson,78.0,44
+2023-H1,Autonomous Actions,1,225.99942102371864,poisson,103.0,57
+2023-H1,"Governance, Oversight & Explainability",1,125.50525997418781,poisson,31.0,27
+2023-H2,Reliability,1,182.6813667531328,poisson,74.0,43
+2023-H2,Bias & Fairness,1,241.21431510548987,poisson,103.0,59
+2023-H2,"Privacy, Confidentiality & Infringement",1,230.43130655301786,poisson,113.0,61
+2023-H2,Security & Misuse,1,208.80997933041294,poisson,119.0,50
+2023-H2,Autonomous Actions,1,244.91964273933706,poisson,117.0,63
+2023-H2,"Governance, Oversight & Explainability",1,138.86778144073483,poisson,34.0,30
+2024-H1,Reliability,1,200.05175401729787,poisson,80.0,48
+2024-H1,Bias & Fairness,1,257.9788090977462,poisson,112.0,63
+2024-H1,"Privacy, Confidentiality & Infringement",2,250.4026431277677,poisson,121.0,66
+2024-H1,Security & Misuse,1,232.65796863089278,poisson,154.0,56
+2024-H1,Autonomous Actions,1,262.3662409266619,poisson,128.0,68
+2024-H1,"Governance, Oversight & Explainability",1,150.63131998985227,poisson,38.0,33
+2024-H2,Reliability,1,227.6838999220093,poisson,106.0,54
+2024-H2,Bias & Fairness,1,278.3220007746937,poisson,123.0,68
+2024-H2,"Privacy, Confidentiality & Infringement",2,271.0201887587058,poisson,135.0,71
+2024-H2,Security & Misuse,1,266.2279032441342,poisson,227.0,62
+2024-H2,Autonomous Actions,1,285.5702900726156,poisson,140.0,74
+2024-H2,"Governance, Oversight & Explainability",1,167.44277361356214,poisson,48.0,38
+2025-H1,Reliability,1,251.55566844639034,poisson,127.0,60
+2025-H1,Bias & Fairness,1,295.19692214196573,poisson,135.0,74
+2025-H1,"Privacy, Confidentiality & Infringement",2,294.5643861056158,poisson,156.0,77
+2025-H1,Security & Misuse,1,295.7190692081254,poisson,314.0,68
+2025-H1,Autonomous Actions,2,302.6037420970191,poisson,148.0,79
+2025-H1,"Governance, Oversight & Explainability",1,184.1636629040088,poisson,53.0,40
+2025-H2,Reliability,1,277.53449859377065,poisson,157.0,66
+2025-H2,Bias & Fairness,2,320.60609326463873,poisson,149.0,79
+2025-H2,"Privacy, Confidentiality & Infringement",2,314.30193335876754,poisson,174.0,83
+2025-H2,Security & Misuse,1,327.7643153561648,poisson,475.0,74
+2025-H2,Autonomous Actions,2,321.78054666979665,poisson,163.0,85
+2025-H2,"Governance, Oversight & Explainability",1,207.57241637666053,poisson,62.0,43
+2026-H1,Reliability,1,300.0449859011262,poisson,189.0,72
+2026-H1,Bias & Fairness,2,337.9316926992778,poisson,161.0,85
+2026-H1,"Privacy, Confidentiality & Infringement",2,340.895751429783,poisson,194.0,89
+2026-H1,Security & Misuse,1,363.8115719630387,poisson,585.0,80
+2026-H1,Autonomous Actions,2,347.74426926498904,poisson,183.0,91
+2026-H1,"Governance, Oversight & Explainability",1,222.07147241888114,poisson,70.0,49
